@@ -53,7 +53,7 @@
 
 <table style="border: none;">
     <tr>
-        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="200px"></td>
+        <td rowspan="6"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex036</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex037</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex038</a></th>
@@ -97,6 +97,8 @@
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex068</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex069</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex070</a></th>
+    </tr>
+    <tr>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex071</a></th>
     </tr>
 </table>
@@ -105,49 +107,62 @@
 
 <table style="border: none;">
     <tr>
-        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png" width="200px"></td>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex001</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex002</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex003</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex004</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex005</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex006</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex007</a></th>
+        <td rowspan="6"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png" width="200px"></td>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex072</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex073</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex074</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex075</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex076</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex077</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex078</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex079</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex008</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex009</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex010</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex011</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex012</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex013</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex014</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex080</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex081</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex082</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex083</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex084</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex085</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex086</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex087</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex015</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex016</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex017</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex018</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex019</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex020</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex021</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex088</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex089</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex090</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex091</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex092</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex093</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex094</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex095</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex022</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex022</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex024</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex025</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex026</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex027</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex028</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex096</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex097</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex098</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex099</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex100</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex101</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex102</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex103</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex029</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex030</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex031</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex032</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex033</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex034</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex035</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex104</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex105</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex106</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex107</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex108</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex109</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex110</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex111</a></th>
+    </tr>
+    <tr>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex112</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex113</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex114</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex115a</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex115b</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex115c</a></th>
     </tr>
 </table>
