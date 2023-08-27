@@ -2,7 +2,7 @@
 ###### Realizado na Plataforma [Curso em Vídeo](https://www.cursoemvideo.com/) - Prof. Gustavo Guanabara
 <table style="border-collapse: collapse;">
     <tr>
-        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1.png" width="300px"></td>
+        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex001</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex002</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex003</a></th>
@@ -53,7 +53,7 @@
 
 <table style="border: none;">
     <tr>
-        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="300px"></td>
+        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex036</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex037</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex038</a></th>
@@ -105,7 +105,7 @@
 
 <table style="border: none;">
     <tr>
-        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png" width="300px"></td>
+        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex001</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex002</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex003</a></th>
