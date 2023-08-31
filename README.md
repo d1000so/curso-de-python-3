@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse;">
     <tr>
         <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1.png" width="200px"></td>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex001</a></th>
+        <th><a href="https://github.com/d1000so/curso-de-python-3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex001</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex002</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex003</a></th>
         <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex004</a></th>
