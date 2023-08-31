@@ -4,48 +4,48 @@
     <tr>
         <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/curso-de-python-3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex001</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex002</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex003</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex004</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex005</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex006</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex007</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex002</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex003</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex004</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex005</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex006</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex007</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex008</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex009</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex010</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex011</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex012</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex013</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex014</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex008</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex009</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex010</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex011</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex012</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex013</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex014</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex015</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex016</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex017</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex018</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex019</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex020</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex021</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex015</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex016</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex017</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex018</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex019</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex020</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex021</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex022</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex022</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex024</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex025</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex026</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex027</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex028</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex022</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex022</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex024</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex025</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex026</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex027</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex028</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex029</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex030</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex031</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex032</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex033</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex034</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex035</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex029</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex030</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex031</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex032</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex033</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex034</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex035</a></th>
     </tr>
 </table>
 
@@ -54,52 +54,52 @@
 <table style="border: none;">
     <tr>
         <td rowspan="6"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="200px"></td>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex036</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex037</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex038</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex039</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex040</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex041</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex042</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex036</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex037</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex038</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex039</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex040</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex041</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex042</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex043</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex044</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex045</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex046</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex047</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex048</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex049</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex043</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex044</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex045</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex046</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex047</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex048</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex049</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex050</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex051</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex052</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex053</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex054</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex055</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex056</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex050</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex051</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex052</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex053</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex054</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex055</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex056</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex057</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex058</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex059</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex060</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex061</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex062</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex063</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex057</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex058</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex059</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex060</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex061</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex062</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex063</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex064</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex065</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex066</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex067</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex068</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex069</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex070</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex064</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex065</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex066</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex067</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex068</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex069</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex070</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex071</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex071</a></th>
     </tr>
 </table>
 
@@ -108,61 +108,61 @@
 <table style="border: none;">
     <tr>
         <td rowspan="6"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png" width="200px"></td>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex072</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex073</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex074</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex075</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex076</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex077</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex078</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex079</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex072</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex073</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex074</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex075</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex076</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex077</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex078</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex079</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex080</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex081</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex082</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex083</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex084</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex085</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex086</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex087</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex080</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex081</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex082</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex083</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex084</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex085</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex086</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex087</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex088</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex089</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex090</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex091</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex092</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex093</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex094</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex095</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex088</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex089</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex090</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex091</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex092</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex093</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex094</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex095</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex096</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex097</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex098</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex099</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex100</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex101</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex102</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex103</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex096</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex097</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex098</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex099</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex100</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex101</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex102</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex103</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex104</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex105</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex106</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex107</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex108</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex109</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex110</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex111</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex104</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex105</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex106</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex107</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex108</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex109</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex110</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex111</a></th>
     </tr>
     <tr>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex112</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex113</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex114</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex115a</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex115b</a></th>
-        <th><a href="https://github.com/d1000so/Curso_de_Python_3/edit/main/README.md#curso-de-python-3---mundo-2">ex115c</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex112</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex113</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex114</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex115a</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex115b</a></th>
+        <th><a href="https://github.com/d1000so/Curso_de_Python_3/tree/main#realizado-na-plataforma-curso-em-v%C3%ADdeo---prof-gustavo-guanabara">ex115c</a></th>
     </tr>
 </table>
