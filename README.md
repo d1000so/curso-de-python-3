@@ -114,7 +114,7 @@ Prof. Gustavo Guanabara
 
 <table style="border: none;">
     <tr>
-        <td rowspan="6"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png" width="200px"></td>
+        <td rowspan="6"><img src="https://github.com/d1000so/curso-de-python-3/blob/main/Python/Python3%E2%80%93Mundo3.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex072.py">ex072</a></th>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex073.py">ex073</a></th>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex074.py">ex074</a></th>
