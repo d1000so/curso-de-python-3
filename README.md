@@ -53,7 +53,7 @@
 
 <table style="border: none;">
     <tr>
-        <td rowspan="6"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="200px"></td>
+        <td rowspan="6"><img src="https://github.com/d1000so/curso-de-python-3/blob/main/Python/Python3%E2%80%93Mundo2.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex036.py">ex036</a></th>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex037.py">ex037</a></th>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex038.py">ex038</a></th>
