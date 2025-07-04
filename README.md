@@ -1,5 +1,12 @@
+### Realizado na Plataforma 
+<a href="https://www.cursoemvideo.com/">
+  <img src="https://github.com/d1000so/curso-de-python-3/blob/main/Python/cursoemvideo-logo-branca-300x91.png" alt="Logo do Curso em Vídeo" width="150">
+</a>
+
+Prof. Gustavo Guanabara
+
 # Curso de Python 3 - Mundo 1  [40 Horas]
-###### Realizado na Plataforma <img src="https://www.cursoemvideo.com/" width="200px">[Curso em Vídeo](https://www.cursoemvideo.com/) - Prof. Gustavo Guanabara
+
 <table style="border-collapse: collapse;">
     <tr>
         <td rowspan="5"><img src="https://github.com/d1000so/curso-de-python-3/blob/main/Python/Python3%E2%80%93Mundo1.png" width="200px"></td>
