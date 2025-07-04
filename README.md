@@ -2,7 +2,7 @@
 ###### Realizado na Plataforma [Curso em Vídeo](https://www.cursoemvideo.com/) - Prof. Gustavo Guanabara
 <table style="border-collapse: collapse;">
     <tr>
-        <td rowspan="5"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1.png" width="200px"></td>
+        <td rowspan="5"><img src="https://github.com/d1000so/curso-de-python-3/blob/main/Python/Python3%E2%80%93Mundo1.png" width="200px"></td>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex001.py">ex001</a></th>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex002.py">ex002</a></th>
         <th><a href="https://github.com/d1000so/curso-de-python-3/blob/main/Python/ex003.py">ex003</a></th>
